@@ -110,6 +110,3 @@ Monitoring database performance and storage
 
 Support
 For questions or issues related to this database schema, please consult the MySQL documentation or seek assistance from a database administrator.
-
-License
-This database schema is provided as-is for educational and commercial use.
